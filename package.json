@@ -1,0 +1,19 @@
+{
+  "name": "node_s3",
+  "version": "1.0.0",
+  "description": "Using AWS S3 Bucket in a NodeJs App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MotasemZiad/Node-S3.git"
+  },
+  "author": "MotasemZiad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MotasemZiad/Node-S3/issues"
+  },
+  "homepage": "https://github.com/MotasemZiad/Node-S3#readme"
+}
